@@ -304,6 +304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -373,6 +377,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 9
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -442,6 +450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 3
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -511,6 +523,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 7
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -717,6 +733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 4
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1003,6 +1023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1181,6 +1205,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 8
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1250,6 +1278,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 6
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1319,6 +1351,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cubo 5
       objectReference: {fileID: 0}
+    - target: {fileID: 4914789316529524613, guid: b1b2568dd59df4244a338b55c4c315d7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6172653254e05e54ca3f0c20a11d6bb4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
