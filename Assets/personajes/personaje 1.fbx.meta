@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Elvis_FaceAnimMap
-    second: {fileID: 2800000, guid: 08047aee2495e5e4f9f723c09a7abd5f, type: 3}
+    second: {fileID: 2800000, guid: 0947e55d4f8cbd44c8ba192c7fdb9e2f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: FatElvis_diffuse
-    second: {fileID: 2800000, guid: ddd67da940c97e041b881ca1fdd0ede2, type: 3}
+    second: {fileID: 2800000, guid: c03ed7fcdaebf3c468402afab8ed3ede, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: FatElvis_normal
-    second: {fileID: 2800000, guid: cabe9be4f5863b64cbd206724ddc5273, type: 3}
+    second: {fileID: 2800000, guid: 9655e9aebfe2fd1479ed97942d02c11c, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

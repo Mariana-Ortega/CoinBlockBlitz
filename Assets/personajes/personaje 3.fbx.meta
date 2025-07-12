@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: MEDEA diffuse
-    second: {fileID: 2800000, guid: e69b9eafaacd1e44dabdfcc92ed9dc0f, type: 3}
+    second: {fileID: 2800000, guid: 21a6ee384e4a1e544a9a735e451e0513, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: MEDEA glow
-    second: {fileID: 2800000, guid: ccc359897f7ffaf4e8c64aa2e82520a7, type: 3}
+    second: {fileID: 2800000, guid: a54c395051a13284a8938d06777bb47b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: MEDEA specular
-    second: {fileID: 2800000, guid: 133acbe67fb1d7d45bdc81ac1af9984b, type: 3}
+    second: {fileID: 2800000, guid: 3651ba693578649478e5218b75e08309, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: body diffuse
-    second: {fileID: 2800000, guid: fd3ea952d7be13e40a598457db7dbbe1, type: 3}
+    second: {fileID: 2800000, guid: e085f036562c3c644bd8e10eddede000, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
